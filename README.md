@@ -1,5 +1,10 @@
-# Tutorial 
+# Tutorial
 https://www.youtube.com/watch?v=FJDVKeh7RJI
+
+# Current Status
+* simple page with image and google map
+* hosted using cloudFront+S3
+* understand the basic of react build and generated output (check the `build` folder which has index.html )
 
 # Getting Started with Create React App
 
